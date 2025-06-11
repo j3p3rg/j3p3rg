@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Dev at Shields Finance
+# Dev at Shield
 
 ## Goals 📘
 To leverage cutting-edge technologies in blockchain and smart contract development to ensure reliability and user privacy.
