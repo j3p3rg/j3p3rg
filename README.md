@@ -41,11 +41,12 @@ To leverage cutting-edge technologies in blockchain and smart contract developme
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 
 ## Connect with Us! 🌐
-- [![Website](https://img.shields.io/badge/Website-shields.finance-blue?style=flat-square)](https://shields.finance)
-- [![Twitter](https://img.shields.io/twitter/follow/Sheilds?style=social)](https://x.com/shields_finance)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shields-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/shields-finance)
+- [![Website](https://img.shields.io/badge/Website-shields.finance-blue?style=flat-square)](https://tradexplace.com)
+
+- [![Website](https://img.shields.io/badge/Website-shields.finance-blue?style=flat-square)](https://shield.com)
+
 - [![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-blue?style=flat-square&logo=telegram)](https://t.me/j3p3rg)
-- [![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-blue?style=flat-square&logo=telegram)](https://t.me/shieldsfinance)
+  
 
 
 
